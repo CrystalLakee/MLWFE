@@ -1524,6 +1524,7 @@ screen quick_menu():
             textbutton _("Пропуск") action Skip() alternate Skip(fast=True, confirm=True)
             textbutton _("Авто") action Preference("auto-forward", "toggle")
             textbutton _("Меню") action ShowMenu()
+            text "Прогресс: [calculate_progress()]%" align (1.0, 1.0) size 14 
 
 
 style window:

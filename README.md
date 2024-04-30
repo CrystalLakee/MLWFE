@@ -25,4 +25,4 @@ Photoshop - редактирование изображений
 ![image](https://github.com/CrystalLakee/MLWFE/assets/91591838/ab1d3350-0acf-4740-9674-ea27c515c945)
 
 ## Прогресс
-100% игры готово
+Готово

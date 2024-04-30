@@ -1,0 +1,39 @@
+/* Стили для общего контейнера телефона */
+.phone-container {
+    width: 300px;
+    height: 600px;
+    background-color: #333; /* Цвет заднего фона телефона */
+    border-radius: 20px;
+    overflow: hidden; /* Ограничиваем размеры контейнера */
+    position: relative; /* Позиционируем внутренние элементы относительно этого контейнера */
+}
+
+/* Стили для верхней панели телефона (шапки) */
+.phone-header {
+    width: 100%;
+    height: 50px;
+    background-color: #222; /* Цвет верхней панели */
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+
+/* Стили для экрана телефона */
+.phone-screen {
+    width: 100%;
+    height: 500px;
+    background-color: #fff; /* Цвет экрана */
+    position: absolute;
+    top: 50px; /* Отступ от верхней панели */
+    left: 0;
+}
+
+/* Стили для нижней панели телефона (кнопки) */
+.phone-footer {
+    width: 100%;
+    height: 50px;
+    background-color: #222; /* Цвет нижней панели */
+    position: absolute;
+    bottom: 0;
+    left: 0;
+}

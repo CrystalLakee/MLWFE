@@ -19,8 +19,16 @@ Udio - создание музыки через ИИ
 Photoshop - редактирование изображений
 
 ## Установка
-Скачать все файлы
-Запустить MLWFE.exe
+### Windows
+Установить весь проект и пройти в папку MLWFE-Windows. 
+Запустить MLWFE.exe.
+### Android
+Установить весь проект и пройти в папку MLWFE-Android. 
+Перенести m.l.w.f.e-1.0-1714461354-release.apk на андроид устройство и следовать инструкции установки.
+### Linux
+Установить весь проект и пройти в папку MLWFE-1.0-Linux. 
+Запустить MLWFE.exe.
+
 ## Скриншоты 
 ![image](https://github.com/CrystalLakee/MLWFE/assets/91591838/d3c1eefc-7582-4765-8217-17218b9ffd66)
 ![image](https://github.com/CrystalLakee/MLWFE/assets/91591838/40c68ee8-ee32-4758-94e3-97e064dfed3a)
